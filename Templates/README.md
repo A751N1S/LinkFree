@@ -5,7 +5,7 @@
 - [DarkMode](https://michaelbarney.github.io/LinkFree/Templates/DarkMode/)
 - [DeepSea](https://michaelbarney.github.io/LinkFree/Templates/DeepSea/)
 - [Eduardosgs](https://michaelbarney.github.io/LinkFree/Templates/Eduardosgs/)
-- [Galaxy](https://michaelbarney.github.io/LinkFree/Templates/Galaxy/)
+- [Galaxy](https://A751N1S.github.io/LinkFree/Templates/Galaxy/)
 - [GoGreen](https://michaelbarney.github.io/LinkFree/Templates/GoGreen/)
 - [Gridthetic](https://michaelbarney.github.io/LinkFree/Templates/Gridthetic/)
 - [Journal](https://michaelbarney.github.io/LinkFree/Templates/Journal/)
